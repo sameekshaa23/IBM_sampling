@@ -1,2 +1,5 @@
 Dataset used: IOTBot Net
+The IoT botnet dataset was created by the university of New South Wales by designing a realistic network environment. 
+IoT botnet dataset divides traffic into normal traffic and botnet traffic based on the number of packets, transaction state, number of bytes in transaction and etc.
+
 Datasetlink : https://cloudstor.aarnet.edu.au/plus/s/umT99TnxvbpkkoE?path=%2FCSV%2FEntire%20Dataset
